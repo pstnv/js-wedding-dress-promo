@@ -34,7 +34,7 @@ function countdown () {
     }
     
     // определяем разницу между датами (даты отсчета и сегодня)
-    let saleOpens = new Date("June, 7 2022 00:00");
+    let saleOpens = new Date("June, 7 2024 00:00");
 
     const today = new Date();
     let diff = saleOpens - today;
